@@ -1,4 +1,6 @@
-Screenshots
+#Screenshots
 
-<img src='./assets/01.png' />
-<img src='./assets/02.png' />
+<div>
+  <img src="./assets/01.png" style="display: inline-block; max-width: 50%; height: auto;">
+  <img src="./assets/02.png" style="display: inline-block; max-width: 50%; height: auto;">
+</div>
